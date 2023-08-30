@@ -6,9 +6,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajy0326&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=neerajy0326&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=20" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajy0326&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajy0326&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=neerajy0326&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=20" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajy0326&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
