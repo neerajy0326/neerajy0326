@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Neeraj and I'm a Developer and a Ethical Hacker </h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajy0326&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=neerajy0326&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="145" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajy0326&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -49,5 +57,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/neerajy0326/neerajy0326/output/snake.svg" alt="Snake animation" />
 
 ###
