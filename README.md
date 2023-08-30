@@ -62,7 +62,7 @@
 </div>
 
 ###
-#My TryHackme Profile
+#My TryHackMe Profile
 <div align="left">
    <img src="https://tryhackme-badges.s3.amazonaws.com/neerajy2608.png" alt="TryHackMe">
 </div>
