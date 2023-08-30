@@ -9,7 +9,7 @@
   
   <img src="https://streak-stats.demolab.com?user=neerajy0326&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajy0326&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-  <script src="https://tryhackme.com/badge/553937"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/neerajy2608.png" alt="TryHackMe">
 </div>
 
 ###
