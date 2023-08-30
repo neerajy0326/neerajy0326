@@ -6,7 +6,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=neerajy0326&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <a href="https://app.daily.dev/neerajy0326"><img src="https://api.daily.dev/devcards/4213a28609204c5586b358a5a170b6e9.png?r=3s7" width="400" alt="neeraj's Dev Card"/></a>
+  <a href="https://app.daily.dev/neerajy0326"><img src="https://api.daily.dev/devcards/4213a28609204c5586b358a5a170b6e9.png?r=3s7" width="150" height="200" alt="neeraj's Dev Card"/></a>
   <img src="https://streak-stats.demolab.com?user=neerajy0326&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajy0326&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
